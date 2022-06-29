@@ -35,7 +35,7 @@
 
             <div class="min-w-max">
               <div class="px-6">
-                <nuxt-link class="primary-btn" to="/">Register Now</nuxt-link>
+                <nuxt-link class="primary-btn" to="/registration">Register Now</nuxt-link>
               </div>
             </div>
           </div>
