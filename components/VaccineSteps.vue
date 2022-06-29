@@ -18,7 +18,7 @@
           <img v-if="theme == 'step_1'" class="mx-auto" src="~/static/img/promo-2-disabled.svg" alt="">
         </div>
         <div
-          v-bind:class="theme == 'homepage' || theme == 'step_2 ' || theme == 'step_3' ? 'border-green-600' : 'border-gray-400'"
+          v-bind:class="theme == 'homepage' || theme == 'step_2' || theme == 'step_3' ? 'border-green-600' : 'border-gray-400'"
           class="border-4 w-6 h-6 rounded-full mx-auto mb-4 mt-8 tika-step relative"></div>
         <p class="font-bold text-lg">Phone</p>
       </div>
